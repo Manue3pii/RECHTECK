@@ -1,0 +1,11 @@
+Wasser:water:agua
+Hund:dog:perro
+Katze:cat:gato
+Maus:mouse:laucha
+Haus:house:casa 
+Klasse:class:curso 
+Schule:school:escuela
+Haare:hair:vello
+Auto:car:coche
+Mann:man:hombre
+Frau:woman:senora
